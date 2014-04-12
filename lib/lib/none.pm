@@ -1,10 +1,10 @@
 package lib::none;
 
-our $VERSION = '0.01'; # VERSION
+our $VERSION = '0.02'; # VERSION
 
-BEGIN { @INC = () }
-
-sub import {}
+sub import {
+    @INC = ();
+}
 
 1;
 # ABSTRACT: Empty @INC
@@ -21,7 +21,7 @@ lib::none - Empty @INC
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 SYNOPSIS
 

@@ -2,7 +2,7 @@ NAME
     lib::none - Empty @INC
 
 VERSION
-    version 0.01
+    version 0.02
 
 SYNOPSIS
      % perl -Mlib::none yourscript.pl

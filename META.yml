@@ -20,7 +20,7 @@ resources:
   bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=lib-none
   homepage: https://metacpan.org/release/lib-none
   repository: git://github.com/sharyanto/perl-noinc.git
-version: '0.01'
+version: '0.02'
 x_Dist_Zilla:
   perl:
     version: '5.018002'
